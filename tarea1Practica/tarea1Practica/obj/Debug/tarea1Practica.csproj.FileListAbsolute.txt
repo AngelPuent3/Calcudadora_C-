@@ -1,0 +1,16 @@
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\bin\Debug\tarea1Practica.exe.config
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\bin\Debug\tarea1Practica.exe
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\bin\Debug\tarea1Practica.pdb
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.csproj.AssemblyReference.cache
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.csproj.SuggestedBindingRedirects.cache
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\MainWindow.g.cs
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\App.g.cs
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica_MarkupCompile.cache
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica_MarkupCompile.lref
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\MainWindow.baml
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.g.resources
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.Properties.Resources.resources
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.csproj.GenerateResource.cache
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.csproj.CoreCompileInputs.cache
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.exe
+C:\Users\loki\source\repos\tarea1Practica\tarea1Practica\obj\Debug\tarea1Practica.pdb
